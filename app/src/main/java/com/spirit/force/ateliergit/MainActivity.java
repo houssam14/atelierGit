@@ -13,9 +13,9 @@ ImageView imageView;
     TextView textView1;
     EditText  editText1;
     ImageView imageView1;
-    TextView textView2;
-    EditText  editText2;
-    ImageView imageView2;
+        TextView textView2;
+        EditText  editText2;
+        ImageView imageView2;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
